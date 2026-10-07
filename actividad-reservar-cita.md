@@ -1,6 +1,6 @@
 ```mermaid
 flowchart TD
-A([Inicio]) --> B[Paciente inicia sesión]
+A([RRR]) --> B[Paciente inicia sesión]
 B --> C{¿Está registrado?}
 C -- No --> R[CU-001 Registrar paciente] --> B
 C -- Sí --> D[Elige especialidad, fecha y horario]
