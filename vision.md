@@ -2,7 +2,7 @@
 
 ## 1. Propósito
 
-Desarrollar y organizar mediante RUP el módulo principal del Sistema Khanauky orientado al **registro de ventas y control de stock del almacén**, permitiendo que el personal encargado pueda registrar una venta correctamente y mantener actualizadas las existencias de los pro
+Desarrollar y organizar mediante RUP el módulo principal del Sistema Khanauky orientado al **registro de ventas y control de stock del almacén**, permitiendo que el personal encargado pueda registrar una venta correctamente y mantener actualizadas las existencias de los productos.
 
 ## 2. Problema
 
